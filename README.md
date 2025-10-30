@@ -1,6 +1,6 @@
 ![logo](coding_banner.gif)
 
-<h1 align="center">Hello 👋, I'm Lakshay Meghlan</h1>
+<h1 align="center">Hello 👋, I'm Garv Singh Tomar</h1>
 <h3 align="center">Full Stack Developer | MERN/MEAN Stack Enthusiast | Building Interactive Web Experiences</h3>
 
 <p align="left">
