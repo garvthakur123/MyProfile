@@ -5,8 +5,7 @@
 <h3 align="center">Full-Stack Engineer (MERN/Next.js) • AI/ML & Cloud Enthusiast • Building Interactive Web Experiences</h3>
 
 <p align="left">
-  <!-- TODO: replace GITHUB_USERNAME with your actual GitHub handle -->
-  <img src="https://komarev.com/ghpvc/?username=GITHUB_USERNAME&label=Profile%20Views&color=0e75b6&style=flat" alt="profile-views" />
+  <img src="https://komarev.com/ghpvc/?username=lakshaymeghlan&label=Profile%20Views&color=0e75b6&style=flat" alt="lakshaymeghlan" />
 </p>
 
 - 🔭 <strong>Currently Working On</strong>: Learning more about AI and making my work public.
