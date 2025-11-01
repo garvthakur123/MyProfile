@@ -20,11 +20,6 @@
   <a href="https://www.linkedin.com/in/garv-singh-tomar-54a602195/" target="blank">
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" />
   </a>
-  <!-- Optional: keep a second link (same visual style) -->
-  <!-- TODO: replace YOUR_LEETCODE (or switch to Medium link/icon if you prefer) -->
-  <a href="https://www.leetcode.com/YOUR_LEETCODE" target="blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="LeetCode" height="30" width="40" />
-  </a>
 </p>
 
 ---
